@@ -1,0 +1,5 @@
+https://github.com/kuntula7/kuntula7.git
+$ python
+>>> import requests
+>>> requests.get("https://api.github.com")
+<Response [200]>
